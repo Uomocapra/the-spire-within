@@ -1,0 +1,64 @@
+.language-picker {
+  display: inline-flex;
+  align-items: center;
+  gap: .35rem;
+  padding: 0 .62rem;
+  min-height: 36px;
+  border: 1px solid #b49a6760;
+  border-radius: 4px;
+  color: #dfcda6;
+  background: #14242b;
+}
+.language-picker svg { width: 16px; height: 16px; flex: none; }
+.language-picker select {
+  color: inherit;
+  font: 500 12px/1.3 system-ui, sans-serif;
+  min-height: 36px;
+  cursor: pointer;
+  background-color: transparent;
+  border: 0;
+  max-width: 100%;
+}
+.language-picker option { background: #14242b; color: #f5e9ce; }
+.language-picker:focus-within { outline: 2px solid #bb9559; outline-offset: 2px; }
+.language-picker select:focus-visible { outline: none; }
+.site-header nav [data-i18n], .site-header nav [data-language-slot] { color: inherit; font-size: inherit; margin: 0; }
+.gallery-nav { display: flex; justify-content: space-between; align-items: center; gap: 10px; }
+.question-meta { gap: 8px; }
+.question-meta .language-picker { margin-left: auto; color: #384b42; background: #eae5d7; border-color: #7d82694f; }
+.question-meta .question-context { min-width: 0; }
+.question-meta b { flex: none; }
+html:lang(en) .hero h1, html:lang(fr) .hero h1 { letter-spacing: -.025em; line-height: 1.15; }
+html:lang(ko) { word-break: keep-all; overflow-wrap: anywhere; }
+html:not(:lang(zh)) .question-shell h1 { line-height: 1.5; letter-spacing: 0; }
+html:not(:lang(zh)) .question-meta, html:not(:lang(zh)) .room-scene figcaption strong,
+html:not(:lang(zh)) .map-heading, html:not(:lang(zh)) .primary { letter-spacing: normal; }
+html:not(:lang(zh)) .card-detail h3 { padding-right: 12px; letter-spacing: 0; }
+html:not(:lang(zh)) .map-legend { flex-wrap: wrap; }
+html:not(:lang(zh)) .map-toolbar .primary { white-space: normal; }
+@media (max-width: 760px) {
+  .site-header { gap: 10px; padding-inline: clamp(12px,4vw,24px); }
+  .site-header nav { gap: clamp(8px,2.5vw,16px); }
+  .brand { min-width: 0; }
+  html:not(:lang(zh)) .brand { font-size: 14px; line-height: 1.2; letter-spacing: 0; }
+  .site-header nav a { white-space: nowrap; }
+  .language-picker { gap: 2px; padding: 0 4px; }
+  .language-picker select { font-size: 12px; }
+  html:not(:lang(zh)) .hero-facts { flex-wrap: wrap; gap: 6px 14px; }
+  html:not(:lang(zh)) .mode-selector { width: min(100%,340px); }
+  html:not(:lang(zh)) .mode { min-width: 0; flex: 1; line-height: 1.3; }
+  html:not(:lang(zh)) .map-page-heading { flex-wrap: wrap; gap: 5px; }
+  html:not(:lang(zh)) .map-page-heading h1 { line-height: 1.35; }
+  html:not(:lang(zh)) .question-meta .question-context { line-height: 1.4; }
+  .question-meta .language-picker svg { display: none; }
+  .room-scene-question figcaption strong { line-height: 1.15; }
+  html:not(:lang(zh)) .quiz-question-dialog .room-scene-question { min-height: 68px; }
+  html:not(:lang(zh)) .answer-scale { gap: 3px; }
+  html:not(:lang(zh)) .answer-option { min-width: 0; font-size: 10px; line-height: 1.35; }
+  html:not(:lang(zh)) .hero-caption { position: static; text-align: right; padding: 0 24px 24px; }
+}
+@media (max-width: 380px) {
+  .site-header nav a > span:last-child { display: none; }
+  .site-header nav { gap: 7px; }
+  html:not(:lang(zh)) .hero h1 { font-size: 39px; }
+}

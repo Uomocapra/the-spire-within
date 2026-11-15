@@ -1,0 +1,182 @@
+{
+  "game": "Slay the Spire (Steam app 646570)",
+  "gameArt": "Mega Crit",
+  "coordinates": "Percent of original image. focus is x,y on the intended subject. visibleScene is left,top,right,bottom and includes both sides of the encounter where possible. Images retain the entire original frame.",
+  "images": [
+    {
+      "file": "battle-1.webp",
+      "identity": "The Silent faces a Snecko in the City.",
+      "credit": "Mega Crit, Steam store screenshot 0",
+      "pageUrl": "https://store.steampowered.com/app/646570/Slay_the_Spire/",
+      "directUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/646570/ss_c171816f7ecd35b5b46d2fa27532f4c5b8ca3cc5.1920x1080.jpg?t=1774015376",
+      "sourceSize": [
+        1920,
+        1080
+      ],
+      "assetSize": [
+        1280,
+        720
+      ],
+      "focusPercent": [
+        75,
+        58
+      ],
+      "visibleScenePercent": [
+        12,
+        24,
+        86,
+        74
+      ]
+    },
+    {
+      "file": "battle-2.webp",
+      "identity": "The Ironclad targets a Cultist with Perfected Strike in the City.",
+      "credit": "Interface In Game, Attack enemy",
+      "pageUrl": "https://interfaceingame.com/screenshots/slay-the-spire-attack-enemy/",
+      "directUrl": "https://interfaceingame.com/wp-content/uploads/slay-the-spire/slay-the-spire-attack-enemy.jpg",
+      "sourceSize": [
+        3840,
+        2160
+      ],
+      "assetSize": [
+        1280,
+        720
+      ],
+      "focusPercent": [
+        83,
+        56
+      ],
+      "visibleScenePercent": [
+        12,
+        28,
+        94,
+        74
+      ]
+    },
+    {
+      "file": "elite-1.webp",
+      "identity": "The Ironclad faces the Act 1 elite Lagavulin in the Exordium.",
+      "credit": "Burning Badger, Steam Community: egg-heads",
+      "pageUrl": "https://steamcommunity.com/sharedfiles/filedetails/?id=3428157953",
+      "directUrl": "https://images.steamusercontent.com/ugc/61464272496698003/45C819AB654F91C7302493B9482B88FBB2AED656/",
+      "sourceSize": [
+        2560,
+        1440
+      ],
+      "assetSize": [
+        1280,
+        720
+      ],
+      "focusPercent": [
+        75,
+        54
+      ],
+      "visibleScenePercent": [
+        13,
+        25,
+        84,
+        75
+      ]
+    },
+    {
+      "file": "elite-2.webp",
+      "identity": "The Silent faces the three Sentries in the Exordium.",
+      "credit": "Edi KFO5, Steam Community: OOh Sentries hate them",
+      "pageUrl": "https://steamcommunity.com/sharedfiles/filedetails/?id=3738413781",
+      "directUrl": "https://images.steamusercontent.com/ugc/17053330892173100313/8D1A4EE7BD51C7B2C6752B9403B6606A852858A1/",
+      "sourceSize": [
+        2560,
+        1440
+      ],
+      "assetSize": [
+        1280,
+        720
+      ],
+      "focusPercent": [
+        73,
+        53
+      ],
+      "visibleScenePercent": [
+        12,
+        25,
+        88,
+        75
+      ]
+    },
+    {
+      "file": "summit.webp",
+      "identity": "The Silent faces Act 3 bosses Donu and Deca on floor 50.",
+      "credit": "Blood Flowers, Slaying the Spire for Dummies (The Silent Edition)",
+      "pageUrl": "https://steamcommunity.com/sharedfiles/filedetails/?id=1613845715",
+      "directUrl": "https://images.steamusercontent.com/ugc/957481092836963457/B4A461CB9ABB690F1B0F3AFD438AEA0F17CE975C/",
+      "sourceSize": [
+        1920,
+        1080
+      ],
+      "assetSize": [
+        1280,
+        720
+      ],
+      "focusPercent": [
+        72,
+        50
+      ],
+      "visibleScenePercent": [
+        13,
+        22,
+        91,
+        74
+      ]
+    },
+    {
+      "file": "guardian.webp",
+      "identity": "The Ironclad faces the Guardian, an Act 1 boss, on floor 16.",
+      "credit": "Burning Badger, Steam Community: first guardian",
+      "pageUrl": "https://steamcommunity.com/sharedfiles/filedetails/?id=3428108673",
+      "directUrl": "https://images.steamusercontent.com/ugc/61464272496536327/597D262DA6280EAF7915508134AA34D341E06420/",
+      "sourceSize": [
+        2560,
+        1440
+      ],
+      "assetSize": [
+        1280,
+        720
+      ],
+      "focusPercent": [
+        73,
+        53
+      ],
+      "visibleScenePercent": [
+        13,
+        25,
+        86,
+        75
+      ]
+    },
+    {
+      "file": "orbs.webp",
+      "identity": "The Defect plays Zap+ with two visible Lightning orbs and a lightning bolt striking the enemy.",
+      "credit": "Mega Crit, Steam store screenshot 1",
+      "pageUrl": "https://store.steampowered.com/app/646570/Slay_the_Spire/",
+      "directUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/646570/ss_01aa3e7759e457bfbf2422f31c325d7b3ba8a6eb.1920x1080.jpg?t=1774015376",
+      "sourceSize": [
+        1920,
+        1080
+      ],
+      "assetSize": [
+        1280,
+        720
+      ],
+      "focusPercent": [
+        26,
+        54
+      ],
+      "visibleScenePercent": [
+        15,
+        23,
+        84,
+        74
+      ]
+    }
+  ]
+}

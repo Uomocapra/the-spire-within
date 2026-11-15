@@ -1,0 +1,82 @@
+{
+  "game": "Slay the Spire (first game), Mega Crit",
+  "assets": [
+    {
+      "file": "cleric.webp",
+      "page": "https://slaythespire.wiki.gg/wiki/The_Cleric",
+      "source": "https://slaythespire.wiki.gg/images/Event-Cleric.png",
+      "size": [
+        600,
+        600
+      ]
+    },
+    {
+      "file": "ranwid.webp",
+      "page": "https://slaythespire.wiki.gg/wiki/We_Meet_Again!",
+      "source": "https://slaythespire.wiki.gg/images/Event-WeMeetAgain.png",
+      "size": [
+        600,
+        600
+      ]
+    },
+    {
+      "file": "stone.webp",
+      "page": "https://slaythespire.wiki.gg/wiki/Sensory_Stone",
+      "source": "https://slaythespire.wiki.gg/images/Event-SensoryStone.png",
+      "size": [
+        600,
+        600
+      ]
+    },
+    {
+      "file": "neow.webp",
+      "page": "https://slaythespire.wiki.gg/wiki/Neow",
+      "source": "https://slaythespire.wiki.gg/images/Event-Neow.png",
+      "size": [
+        823,
+        702
+      ]
+    },
+    {
+      "file": "route.webp",
+      "page": "https://interfaceingame.com/screenshots/slay-the-spire-map/",
+      "source": "https://interfaceingame.com/wp-content/uploads/slay-the-spire/slay-the-spire-map-1920x1080.jpg",
+      "size": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "file": "relic.webp",
+      "page": "https://interfaceingame.com/screenshots/slay-the-spire-choose-a-relic/",
+      "source": "https://interfaceingame.com/wp-content/uploads/slay-the-spire/slay-the-spire-choose-a-relic-1920x1080.jpg",
+      "size": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "file": "cards.webp",
+      "page": "https://interfaceingame.com/screenshots/slay-the-spire-choose-a-card/",
+      "source": "https://interfaceingame.com/wp-content/uploads/slay-the-spire/slay-the-spire-choose-a-card-1920x1080.png",
+      "size": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "file": "merchant-room.jpg",
+      "source": "User-provided screenshot of Slay the Spire (first game), cropped to the merchant room."
+    },
+    {
+      "file": "merchant-wares.webp",
+      "page": "https://playcraft.space/gallery/slay-the-spire/merchant-shop-cards-relics/",
+      "source": "https://playcraft.space/assets/library/slay-the-spire/slay-the-spire-2.webp",
+      "origin": "Slay the Spire launch trailer (Steam)",
+      "size": [
+        1560,
+        878
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#101c24">
+  <meta name="description" content="高塔之中，你是谁？30 / 50 题 MBTI 风格测试，找到与你相似的《杀戮尖塔》角色，收下专属尖塔人格档案。" data-i18n-content="description">
+  <meta property="og:title" content="尖塔人格档案 · 高塔之中，你是谁？" data-i18n-content="pageTitle">
+  <meta property="og:description" content="30 / 50 题，16 种人格。一场关于你的登塔之旅。" data-i18n-content="socialDescription">
+  <meta property="og:image" content="https://spire-personality-uomocapra.aerialmonkey1.chatgpt.site/assets/ai-scenes/home.webp">
+  <title data-i18n="pageTitle">尖塔人格档案 · 高塔之中，你是谁？</title>
+  <link rel="icon" href="./assets/mark.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="./styles.css">
+  <link rel="stylesheet" href="./motions.css">
+  <link rel="stylesheet" href="./home-motion.css">
+  <link rel="stylesheet" href="./journey-map.css">
+  <link rel="stylesheet" href="./quiz-map.css">
+  <link rel="stylesheet" href="./room-scenes.css">
+  <link rel="preload" href="./assets/ai-scenes/home.webp" as="image">
+  <link rel="prefetch" href="./assets/ai-scenes/card-back.webp" as="image">
+  <link rel="stylesheet" href="./language.css">
+</head>
+<body>
+  <a href="#main" class="skip-link"><span data-i18n="skip">跳转到主要内容</span></a>
+  <header class="site-header">
+    <a class="brand" href="#home" aria-label="尖塔人格档案首页" data-i18n-aria="homeLink"><img src="./assets/mark.svg" alt="" width="36" height="44"><span><span data-i18n="brand">尖塔人格档案</span><small>THE SPIRE WITHIN</small></span></a>
+    <nav aria-label="主要导航" data-i18n-aria="nav"><a href="#archive"><span data-i18n="archive">人格图鉴</span> <span>16</span></a><button class="nav-about" data-action="about"><span data-i18n="aboutButton">关于测试</span> <span>↗</span></button><span data-language-slot></span></nav>
+  </header>
+  <main id="main" tabindex="-1"></main>
+  <footer class="site-footer"><span><span data-i18n="journeyIn">一场向内的冒险。</span><i data-i18n="footerMotto">Every climb tells a story.</i></span><button data-action="about"><span data-i18n="creditsButton">非官方同人企划 · 关于与来源 ↗</span></button></footer>
+  <div id="toast" role="status" aria-live="polite"></div>
+  <dialog id="dialog" aria-labelledby="dialog-title"><button class="dialog-close" aria-label="关闭" data-i18n-aria="close" data-action="close-dialog">×</button><div id="dialog-content"></div></dialog>
+  <noscript><p style="padding:3rem;color:#f4e8cd">请开启 JavaScript 以进行测试。所有答案仅保存在你的浏览器中。</p></noscript>
+  <script type="module" src="./app.js"></script>
+</body>
+</html>

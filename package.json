@@ -1,0 +1,7 @@
+{
+  "name": "spire-personality",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": { "test": "node --test tests/scoring.test.mjs tests/motions.test.mjs tests/home-motion.test.mjs tests/journey-map.test.mjs tests/quiz-reveal.test.mjs tests/language.test.mjs", "start": "node scripts/serve.mjs" }
+}

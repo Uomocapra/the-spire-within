@@ -1,0 +1,10 @@
+node_modules/
+artifacts/
+*.log
+*.tar.gz
+.preview.pid
+
+.env
+.env.*
+!.env.example
+.openai/

@@ -1,0 +1,56 @@
+{
+  "retrieved": "2026-11-07",
+  "game": "Slay the Spire (first game)",
+  "reference": "https://slaythespire.wiki.gg/wiki/Map_Locations",
+  "rights": "Game artwork belongs to Mega Crit and the respective rights holders. First-game map icon crops from the GuideSlayTheSpire reference app; files preserved without pixel edits. SVG presentation filters convert the pale screenshot paper to transparent alpha and render the original silhouettes in the interface ink color.",
+  "assets": [
+    {
+      "file": "battle.png",
+      "source": "https://raw.githubusercontent.com/xxxawenxxx/GuideSlayTheSpire/master/app/src/main/res/drawable/maps_enemy_button.png",
+      "width": 100,
+      "height": 100,
+      "bytes": 6036,
+      "sha256": "61fa4e3a4e393166005684f3a381cf682d197d495567de77d8faa757867c7b0b"
+    },
+    {
+      "file": "event.png",
+      "source": "https://raw.githubusercontent.com/xxxawenxxx/GuideSlayTheSpire/master/app/src/main/res/drawable/maps_event_button.png",
+      "width": 100,
+      "height": 100,
+      "bytes": 4836,
+      "sha256": "24a65490d2cea41e622c463ccf5d4bd694a6824c9f877354186f6256793d7bcc"
+    },
+    {
+      "file": "elite.png",
+      "source": "https://raw.githubusercontent.com/xxxawenxxx/GuideSlayTheSpire/master/app/src/main/res/drawable/maps_elite_icon.png",
+      "width": 100,
+      "height": 100,
+      "bytes": 7445,
+      "sha256": "6a49184a846d6226cf2f961df48d09a8c76463d1c780014a477293c608a6c62b"
+    },
+    {
+      "file": "fire.png",
+      "source": "https://raw.githubusercontent.com/xxxawenxxx/GuideSlayTheSpire/master/app/src/main/res/drawable/maps_rest_button.png",
+      "width": 100,
+      "height": 100,
+      "bytes": 6481,
+      "sha256": "e76ec17dd53b0aae13d413beb7c4305e1d119c51aa776d6e6758abba68e6c263"
+    },
+    {
+      "file": "shop.png",
+      "source": "https://raw.githubusercontent.com/xxxawenxxx/GuideSlayTheSpire/master/app/src/main/res/drawable/maps_shop_button.png",
+      "width": 100,
+      "height": 100,
+      "bytes": 5653,
+      "sha256": "c1ea1b6c5c4293324a62bb30925e99b9c8f2d8f303c572488a81a79515db1f73"
+    },
+    {
+      "file": "summit.png",
+      "source": "https://raw.githubusercontent.com/xxxawenxxx/GuideSlayTheSpire/master/app/src/main/res/drawable/maps_boss_button.png",
+      "width": 100,
+      "height": 100,
+      "bytes": 6141,
+      "sha256": "a137f6607907b0a07c096bcffaab4b11645294e9a50e0351047d3eb7b1266e1f"
+    }
+  ]
+}

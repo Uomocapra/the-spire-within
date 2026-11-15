@@ -1,0 +1,232 @@
+{
+  "collection": "尖塔人格档案 · AI 背景版",
+  "tool": "OpenAI built-in ImageGen",
+  "date": "2026-11-08",
+  "credit": "AI-generated fan illustrations inspired by Slay the Spire (first game), Mega Crit.",
+  "promptAssembly": "Shared art direction followed by the individual scene brief.",
+  "artDirection": "A single landscape illustration for a Slay the Spire 1 fan-made personality quiz, one unbroken widescreen painting. Art direction for the entire series: dark folkloric gouache on rough warm paper, bold uneven ink contours, expressive angular stone silhouettes, matte desaturated indigo and petrol shadows, subtle tarnished brass and muted ember light, selective turquoise glints. Distinct three-plane environment, restrained detail, readable at thumbnail size, handmade painterly finish. Frame the scene as an encounter inside an ancient living tower. Choose a strong central focal silhouette that survives a phone portrait crop. Palette and motifs should recall a dark illustrated card adventure. No UI, words, lettering, logos, numerals, watermarks, borders, frames, collage, panels, or photorealism.",
+  "images": [
+    {
+      "key": "home",
+      "title": "尖塔远眺",
+      "file": "home.webp",
+      "width": 1774,
+      "height": 887,
+      "sha256": "e98ab783e0916ef128346781f37cf9245720214274cd63aefa0bc6c27e17bf2e",
+      "sceneBrief": "Ultrawide website cover. A colossal crooked Spire of interlocked basalt and amber-lit windows rises into a torn ochre sky, surrounded by floating chunks of rock. In the right foreground two small rear-view silhouettes, the Ironclad with a greatsword and iron mask and the hooded Silent with her horned skull mask, look toward the summit. Keep their scale small relative to the architecture. Strong tower silhouette near x=65%, important details in the central-right band for a portrait crop. The left third is quiet dark indigo stone and mist for an HTML title. No title baked into the painting."
+    },
+    {
+      "key": "merchant",
+      "title": "商人的地毯",
+      "file": "merchant.webp",
+      "width": 1344,
+      "height": 756,
+      "sha256": "2b56e127aec456d5d072efc1de13651c62e0aa7ed4d3213129c6e5d749b21a6b",
+      "sceneBrief": "Merchant's rug room: a travelling blue hooded merchant sits cross-legged, his pale oval mask and indigo cloak lit by an amber lantern. He sits on a faded green patterned rug beside a little wooden chest, a potion and folded cards. Red-brown vaulted stone shop in the tower. The seated merchant is the unmistakable compact focal subject at image center; keep plenty of space around him."
+    },
+    {
+      "key": "merchant-wares",
+      "title": "商人的摊布",
+      "file": "merchant-wares.webp",
+      "width": 1344,
+      "height": 756,
+      "sha256": "f0a60c215b91fe144cb461bccd3db767fbdf4a002b80803dcca1dcdeec7af171",
+      "sceneBrief": "Top-down view of the blue merchant's unfurled green shop rug, filling the entire widescreen picture. Handcrafted cards with tiny painted emblems arranged across the upper half, three relics, glass potion bottles and small piles of gold on the lower half. Brass hems, worn fabric, warm lamplight on a dark stone floor, no merchant or hands. No printed numbers or prices, no menu UI, no text. The composition should work as a real cloth sliding down."
+    },
+    {
+      "key": "rest",
+      "title": "营火",
+      "file": "rest.webp",
+      "width": 1344,
+      "height": 756,
+      "sha256": "be86a9a1965bf7836c1981ddf129380da74a5ddfe5f048c25df1569cdc92db13",
+      "sceneBrief": "Rest site: an orange campfire flames between irregular basalt stones on a sheltered ledge, reflected warmly on a worn iron mask and an enormous sword laid beside the resting Ironclad. Center the flames and seated armored traveler in the same middle band. Deep indigo ruins, still air, one quietly glowing fire, intimate and restful."
+    },
+    {
+      "key": "library",
+      "title": "图书馆",
+      "file": "library.webp",
+      "width": 1344,
+      "height": 756,
+      "sha256": "e8380cea5c4ab17723f7e5eafa603c007fea82f42e7797c94363f01fd9d9fb56",
+      "sceneBrief": "The Library event. A surprisingly inviting reading alcove inside the tower, impossibly tall leaning bookshelves, a single open illustrated book on a brass reading stand, a small amber lamp, a shaft of dusty turquoise light. The focal open book and curve of the shelves sit near the center, enough wide environmental storytelling to feel like a room."
+    },
+    {
+      "key": "fish",
+      "title": "大鱼",
+      "file": "fish.webp",
+      "width": 1344,
+      "height": 756,
+      "sha256": "9b1edac6db2627c7abdbead0ee65f6efa64307688e867e400e9ef68b25fc6049",
+      "sceneBrief": "Big Fish event. From the dark vaulted ceiling hang three curious offerings on three fine fishing lines: one golden banana, one small closed carved wooden box, one pink glazed ring-shaped doughnut with colorful sprinkles. All three grouped closely at the center above a dark stone corridor, slightly uncanny, no actual fish or extra food."
+    },
+    {
+      "key": "cleric",
+      "title": "牧师",
+      "file": "cleric.webp",
+      "width": 1344,
+      "height": 756,
+      "sha256": "f8805a6aa0ed40aeb77a7b242caf8e9849d67ef9c17f4774f0b671bc1e28d193",
+      "sceneBrief": "The Cleric event. A broad-shouldered smiling blue-skinned cleric with a golden pointed openwork mitre stands in a vaulted shrine, holding a tiny yellow spirit glow in one palm and a blue spirit flame in the other. Warm mischievous expression, central waist-up hooded figure, enough space to see the shrine, saturated colors limited to the two spirit lights and gold circlet."
+    },
+    {
+      "key": "ranwid",
+      "title": "我们又见面了！",
+      "file": "ranwid.webp",
+      "width": 1344,
+      "height": 756,
+      "sha256": "bae7005d0793e5b8bbb95c4381522dc9723803e4eaa0ec75c92ecdca410c4d50",
+      "sceneBrief": "The We Meet Again event. Ranwid, an eccentric green-skinned tusked scholar in a rough brown hooded cloak and bead necklace, grins warmly and raises his hands to greet a traveler from a recess of the Spire. Small vials and a travel satchel at his belt, wide environmental composition. Focus on his friendly face centrally. This is a single specific encounter."
+    },
+    {
+      "key": "stone",
+      "title": "感知石",
+      "file": "stone.webp",
+      "width": 1344,
+      "height": 756,
+      "sha256": "ca8ce05b0821c06653a6f1f1d3cedcb3458b097b07bd57e01ff35bc7e97b8230",
+      "sceneBrief": "The Sensory Stone event. A luminous intricate blue cubic crystal suspended in a hollow just above a worn stone plinth. Tiny square fragments levitate nearby and a pale hand reaches toward the cube from the lower edge. A blue reflection travels over cut-stone walls. Centered glowing crystal, deep dark periphery."
+    },
+    {
+      "key": "neow",
+      "title": "涅奥",
+      "file": "neow.webp",
+      "width": 1344,
+      "height": 756,
+      "sha256": "fe007c12913e3c1a28bafe502bfa9b5f21266b0220180a7d50f834e277181fb5",
+      "sceneBrief": "The foot of the Spire. Neow is an enormous quiet pale-blue whale-like being embedded in the shadow of a ruined arch. A line of small yellow eyes glints above the wide plum-colored mouth and craggy markings are cut into the ancient face. Tiny traveler low in the foreground conveys scale. Center frame contains the eye line and broad curve of the head."
+    },
+    {
+      "key": "map",
+      "title": "登塔路线",
+      "file": "map.webp",
+      "width": 1344,
+      "height": 756,
+      "sha256": "7f51f2de25354801f192a8e64c2da83578e8e6770f30a6bf274a47ffb3aa45f9",
+      "sceneBrief": "A route-planning place inside the tower. A close overhead view of a large hand-drawn parchment map unrolled on a carved stone table, black dotted trails branching and meeting, small hand-drawn room symbols, one imperfect ink circle marking a stop; a dip pen, brass compass and warm lantern nearby. Strong diagonal folds. This is atmospheric environmental illustration, not interactive UI. No written words."
+    },
+    {
+      "key": "relic",
+      "title": "遗物奖励",
+      "file": "relic.webp",
+      "width": 1344,
+      "height": 756,
+      "sha256": "7dff251bb46f7285fbe5fa1aa15691c59453650f860477aca86b66452fb2d30d",
+      "sceneBrief": "Relic reward chamber. An open treasure chest at a worn stone altar reveals three distinct magical relics: a cracked bronze hourglass, a delicate blue feather and a small gilded bell, carefully arranged near a single warm shaft of light. High stone pillars silhouetted behind, central grouping safe for cropped screens."
+    },
+    {
+      "key": "cards",
+      "title": "卡牌奖励",
+      "file": "cards.webp",
+      "width": 1344,
+      "height": 756,
+      "sha256": "19f64845ba80dc2b2d8313612281f86436c9a3afb2ab5966833416fd992708e9",
+      "sceneBrief": "Card reward room. Three beautifully illustrated rectangular cards fan out above a dark oak table inside a shadowed vault, each card bearing a single bold motif: a red sword stroke, a pale shield, a blue lightning bolt. Their faces are entirely pictorial with no title, statistics or typography. Amber light catches the paper edges; temple masonry in the background."
+    },
+    {
+      "key": "snecko",
+      "title": "异蛇",
+      "file": "snecko.webp",
+      "width": 1344,
+      "height": 756,
+      "sha256": "68aa2e2c49abc9ba55fca8608403790f0ae85a6339e60a5b81fc6ec1d77e8f2b",
+      "sceneBrief": "City encounter with Snecko. One large lime-green serpentine creature with a long curved body, yellow belly, broad expressive eyes, curling tail and a distinctive raised head looms above a cobbled greenish city floor. Cyan dizzying motes float around its eye. Shadow of a traveler at the edge; snake's head remains central."
+    },
+    {
+      "key": "cultist",
+      "title": "邪教徒",
+      "file": "cultist.webp",
+      "width": 1344,
+      "height": 756,
+      "sha256": "f97e3cf6e40dbe7d4df5c366096779225440707cb5d9c89e6cc3b340d6b31a59",
+      "sceneBrief": "A lone Cultist of the Spire in a ruined columned hall. A wiry man wearing the iconic dark blue bird-beaked mask, a blue feather mantle and a ragged robe raises his arms in a ritual under a hanging lantern. Keep beak and head central. Architecture and floor extend naturally to both sides."
+    },
+    {
+      "key": "lagavulin",
+      "title": "乐加维林",
+      "file": "lagavulin.webp",
+      "width": 1344,
+      "height": 756,
+      "sha256": "482c544575dbd305e2644ef3d3205081dccfca6d99862b5a8f62594701e46f4c",
+      "sceneBrief": "Lagavulin, the sleeping first-act elite, in a silent stone chamber. Its bulky pale ivory oval carapace is ridged with crooked dark fissures and small holes, jointed ochre legs tucked beneath it. One red eye glows within the shell's shadow. A single tiny approaching cloaked traveler off to one side. The carapace is distinctive, not a conventional horned dragon."
+    },
+    {
+      "key": "sentries",
+      "title": "三哨卫",
+      "file": "sentries.webp",
+      "width": 1344,
+      "height": 756,
+      "sha256": "02564c67ed6e8c6c56771e6fce3a71cce779b5aa747d87c62db677f5e69a7c85",
+      "sceneBrief": "Three first-act Sentries in a vaulted room of the Spire. Exactly three tall floating ancient geometric constructs, each formed of two tapering brass diamond-shaped halves around a bright cyan energy eye. All three assembled in a tight triangular composition near center so their relationship reads on a phone. Warm stone and cold magical circuitry."
+    },
+    {
+      "key": "guardian",
+      "title": "守护者",
+      "file": "guardian.webp",
+      "width": 1344,
+      "height": 756,
+      "sha256": "0abece525006712d875174ebeb6e598a6a9224b0c1be094e413566dbc20afe90",
+      "sceneBrief": "The Guardian boss unfolds in a massive red-brown first-act chamber. A monumental angular mechanical guardian with an armored geometric body, bright green core, gold-edged articulated claws, spiked steel plates and a broad protective shell. A tiny red-cloaked Ironclad with a heavy sword near its foot shows scale. Central guardian body in a readable defensive stance."
+    },
+    {
+      "key": "orbs",
+      "title": "故障机器人的充能球",
+      "file": "orbs.webp",
+      "width": 1344,
+      "height": 756,
+      "sha256": "ba2d0235cea293b12746f6122ab17fbb6fac4bbdc15a12041f5f9d62732a48a4",
+      "sceneBrief": "The Defect in an arched workshop of the Spire, a small bronze and blue automaton with one round bright eye, a red scarf and thin articulated arms. Two distinct crackling yellow lightning orbs hover beside its shoulders. Blue-green energy illuminates the stonework; robot face and both orbs form one tight central composition."
+    },
+    {
+      "key": "summit",
+      "title": "甜圈与八体",
+      "file": "summit.webp",
+      "width": 1344,
+      "height": 756,
+      "sha256": "12ced8f7975550038b15891ba6da0bed549568e44e8c797ae36cb30f148ced81",
+      "sceneBrief": "Act three twin bosses, Donu and Deca together in a vast ribbed summit chamber. Donu is a floating mint-green ring with an open center and small legs; Deca is a hovering faceted orange polyhedron with small dangling legs. Two unmistakably different abstract forms side by side near the middle, eerie green spiraling arches behind, tranquil before battle."
+    },
+    {
+      "key": "map-paper",
+      "title": "登塔地图 · 羊皮纸",
+      "file": "map-paper.webp",
+      "width": 733,
+      "height": 1100,
+      "sha256": "dd9b919bf67de9135f7f9f5117b017440c9661bd6692a380a79874761c88f7ae",
+      "sceneBrief": "Produce one seamless softly aged map parchment texture for a Slay the Spire fan quiz. Portrait tall image, flat orthographic view, light warm ivory/stone beige handmade paper, extremely fine grain, faint mineral specks, whisper-light honey patina. Even brightness from top to bottom with absolutely no border and no distinct objects, high-contrast stains or burnt edges. This is a very quiet material under moving black map nodes and dark dotted routes, all of which the website adds separately. No map drawing, symbols, writing, folds, letters, labels, typography or shadows from an external light; texture must tile vertically without an obvious edge. Traditional matte gouache paper material.",
+      "promptAssembly": "Individual scene brief only."
+    },
+    {
+      "key": "card-back",
+      "title": "题卡 · 靛青牌背",
+      "file": "card-back.webp",
+      "width": 733,
+      "height": 1100,
+      "sha256": "bfc0863101a7048d7bfeee72b8953d7210c5694f97606d826641587a2e96005b",
+      "sceneBrief": "Portrait playing card back ground for a Slay the Spire fan-made illustrated personality quiz. Full bleed, deep petroleum navy handpainted bookcloth blending into imperfect dark stone gouache, brass-pigment filaments trace a pair of discreet climbing vines or tiny curling tower motifs in the outer corners only. The middle is very quiet dark navy with a subtle soft pool of light; a separate real interface stamp will be placed there. Understated tabletop fantasy, fine printed paper grain, symmetric restrained outer ornaments inspired by ancient tower masonry. No words, lettering, icons, seals, medallions, banners or typographic marks. No exterior frame or white margin.",
+      "promptAssembly": "Individual scene brief only."
+    },
+    {
+      "key": "sentries-portrait",
+      "title": "三哨卫 · 竖幅",
+      "file": "sentries-portrait.webp",
+      "width": 788,
+      "height": 1400,
+      "sha256": "2dfe2d1d9f7471b328254eded63e71329ce2258eb3b6d101bca59939db6725b6",
+      "sceneBrief": "Use the supplied landscape illustration as design and style reference. Paint a new tall 9:16 portrait composition for a phone. Preserve exactly three floating bronze diamond-shaped sentries, each with two tapering halves and a cyan luminous eye; arrange them in a vertically staggered triangle within the middle 75% of the width, one large above and two smaller below. Keep all three complete, including both points, comfortably within the portrait frame. Preserve the original dark gouache paper texture, brick vault, blue-green light and brass palette. Fill the tall frame with real architecture, no smeared padding, no labels or UI. Original AI illustration variant.",
+      "promptAssembly": "Individual scene brief only.",
+      "referenceImage": "sentries.webp"
+    },
+    {
+      "key": "summit-portrait",
+      "title": "甜圈与八体 · 竖幅",
+      "file": "summit-portrait.webp",
+      "width": 788,
+      "height": 1400,
+      "sha256": "d4bf0be95f9cf2bb1a62d84cc46440ae914e49acb4b906c42f0dc129af218545",
+      "sceneBrief": "Use the supplied landscape illustration as design and style reference. Recompose this encounter as one tall 9:16 phone painting: exactly two creatures, Donu as a mint-green ring with tiny legs and Deca as an orange faceted polyhedron with small dangling legs. Float one above and slightly left, the other below and slightly right in the same tower vault so BOTH silhouettes and their feet are entirely visible in a phone crop, leaving margins. Keep the swirling green ribbed arches, dark mineral gouache on paper, amber torches and hand-inked contours of the source. No extra characters, text, UI, borders or smeared extensions.",
+      "promptAssembly": "Individual scene brief only.",
+      "referenceImage": "summit.webp"
+    }
+  ]
+}

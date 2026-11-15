@@ -1,0 +1,155 @@
+{
+  "retrieved": "2026-11-06",
+  "owner": "Mega Crit; game images served by fan wiki SlayTheSpire.gg, Slay the Spire Wiki, and GuideSlayTheSpire fan reference repository",
+  "note": "Original downloaded bytes retained; extension reflects actual file format because some source PNG URLs return WebP. No local artwork modification. Merchant retrieved through public image cache; source URL and retrieval URL both recorded.",
+  "files": [
+    {
+      "file": "ironclad.webp",
+      "url": "https://slaythespire.gg/images/characters/Ironclad.png",
+      "bytes": 14796,
+      "width": 366,
+      "height": 259,
+      "format": "WEBP",
+      "sha256": "9d4a62846427c6926e8d7dfb82f23b387f0985f8ccf3181438b17449fa22a7dc"
+    },
+    {
+      "file": "silent.webp",
+      "url": "https://slaythespire.gg/images/characters/Silent.png",
+      "bytes": 13452,
+      "width": 259,
+      "height": 237,
+      "format": "WEBP",
+      "sha256": "a208e1e7ba27890f1734f8b47cf0e4448bd70791df6099a3ebb53b0f79c6ba6e"
+    },
+    {
+      "file": "defect.webp",
+      "url": "https://slaythespire.gg/images/characters/Defect.png",
+      "bytes": 14944,
+      "width": 242,
+      "height": 233,
+      "format": "WEBP",
+      "sha256": "de2a82135c4a26b4e399293d3cf970f8f3822be10e60e368cc1a69b922b903a4"
+    },
+    {
+      "file": "watcher.webp",
+      "url": "https://slaythespire.gg/images/characters/Watcher.png",
+      "bytes": 24564,
+      "width": 429,
+      "height": 288,
+      "format": "WEBP",
+      "sha256": "aae235b9c5e4f52773f5bbb7a6c8c8da3a2ed5ddaff761cf22655ae58957b271"
+    },
+    {
+      "file": "time-eater.webp",
+      "url": "https://slaythespire.gg/images/bosses/time_eater.png",
+      "bytes": 38758,
+      "width": 700,
+      "height": 700,
+      "format": "WEBP",
+      "sha256": "8ccbea0ac0be11e5f365b9068d37411a764c00cc5402f632edc800f80edd3adc"
+    },
+    {
+      "file": "collector.webp",
+      "url": "https://slaythespire.gg/images/bosses/the_collector.png",
+      "bytes": 45188,
+      "width": 300,
+      "height": 407,
+      "format": "WEBP",
+      "sha256": "96eb53361e4e6e2eb15ce1d52841abb084b9b43bb863cd77b778ba3e648fae3a"
+    },
+    {
+      "file": "guardian.webp",
+      "url": "https://slaythespire.gg/images/bosses/guardian.png",
+      "bytes": 46266,
+      "width": 700,
+      "height": 700,
+      "format": "WEBP",
+      "sha256": "f6596640c29d3fd3b3534e786119238496d9c81772e6a54a57bb164357ac97d2"
+    },
+    {
+      "file": "donu-deca.webp",
+      "url": "https://slaythespire.gg/images/bosses/donu_and_deca.png",
+      "bytes": 20184,
+      "width": 351,
+      "height": 365,
+      "format": "WEBP",
+      "sha256": "555b625be086c9406c71a201d26f07605d4212818b8e2e831085dc03ac2fcdff"
+    },
+    {
+      "file": "gremlin-leader.webp",
+      "url": "https://slaythespire.gg/images/elites/gremlin_leader.png",
+      "bytes": 17136,
+      "width": 221,
+      "height": 292,
+      "format": "WEBP",
+      "sha256": "e2dd17a8017b0664e030ce42dd90217360b77a488192e7e33f977405475f3f29"
+    },
+    {
+      "file": "cultist.png",
+      "url": "https://slaythespire.gg/images/monsters/cultist.png",
+      "bytes": 455181,
+      "width": 700,
+      "height": 700,
+      "format": "PNG",
+      "sha256": "3530a431839463c65c948cbd9aaa7f1770ae8545397db00a8cb4b85129e94f0b"
+    },
+    {
+      "file": "neow.webp",
+      "url": "https://slaythespire.gg/images/events/NeowIcon.png",
+      "bytes": 3756,
+      "width": 100,
+      "height": 100,
+      "format": "WEBP",
+      "sha256": "16b786c62ef0ed410e5d8c17fa6036a757536d3b03847b51eab2bade9748eaa0"
+    },
+    {
+      "file": "cleric.webp",
+      "url": "https://slaythespire.gg/images/events/ClericIcon.png",
+      "bytes": 5176,
+      "width": 100,
+      "height": 100,
+      "format": "WEBP",
+      "sha256": "57576d5194706bd40033200418c8c72f63f27b9839dd74cd15cdb0345ddf9e80"
+    },
+    {
+      "file": "face-trader.webp",
+      "url": "https://slaythespire.gg/images/events/FaceTraderIcon.png",
+      "bytes": 4512,
+      "width": 100,
+      "height": 100,
+      "format": "WEBP",
+      "sha256": "d7ce6d877621de02a4ce54d1e6c28d61eb44d9139ac76599a287d094b5a1bda9"
+    },
+    {
+      "file": "ranwid.webp",
+      "url": "https://slaythespire.gg/images/events/WeMeetAgainIcon.png",
+      "bytes": 4258,
+      "width": 100,
+      "height": 100,
+      "format": "WEBP",
+      "sha256": "6dec31a4107013ad6078f1427548f1a7b3f8a735ac8e669b2b071aa1a7d0140b"
+    },
+    {
+      "file": "deca.png",
+      "url": "https://raw.githubusercontent.com/xxxawenxxx/GuideSlayTheSpire/master/app/src/main/res/drawable/monster_boss_deca.png",
+      "page": "https://github.com/xxxawenxxx/GuideSlayTheSpire",
+      "bytes": 69748,
+      "width": 310,
+      "height": 333,
+      "format": "PNG",
+      "sha256": "c269c60ee02ee70ff6935b72b292f3d6cc8944509eb8c98e36d844dd872b7448"
+    },
+    {
+      "file": "merchant.png",
+      "url": "https://slaythespire.wiki.gg/images/MerchantWithProps.png?825ca5",
+      "page": "https://slaythespire.wiki.gg/wiki/The_Merchant",
+      "bytes": 66267,
+      "width": 432,
+      "height": 302,
+      "format": "PNG",
+      "sha256": "2efa05bb52849d4ec6dc12d0b5d629c33d864ff4abe6bb2f6c65f477f23f6934",
+      "retrievalUrl": "https://wsrv.nl/?url=https%3A%2F%2Fslaythespire.wiki.gg%2Fimages%2FMerchantWithProps.png%3F825ca5",
+      "note": "Public wiki original image retrieved through wsrv.nl image cache. No local artwork editing or cropping."
+    }
+  ]
+}
